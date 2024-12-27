@@ -1,13 +1,3 @@
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'd984bd8d63b960044359eb703f38aaf5',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/d984bd8d63b960044359eb703f38aaf5/invoke.js"></script>
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 canvas.width = 800; // Adjusted for horizontal view
